@@ -51,17 +51,6 @@
     
 #     return U, Sigma, V.T
 
-# # Matrix A
-# A = np.array([[1, 1, 1], [-1, 0, -2], [1, 2, -1]])
-
-# U, Sigma, V_T = compute_svd(A)
-
-# print("Matrix V^T:")
-# print(V_T)
-# print("\n-----------------------------")
-
-
-
 import numpy as np
 import sympy as sp
 
